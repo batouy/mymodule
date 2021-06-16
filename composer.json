@@ -1,0 +1,12 @@
+{
+    "name": "vendor/mymodule",
+    "description": "My Module Rulez",
+    "type": "library",
+    "require": {
+        "php": "^7.3|^8.0",
+        "konekt/concord": "^1.10"
+    },
+    "autoload": {
+        "psr-4": { "Vendor\\MyModule\\": "src/" }
+    }
+}
