@@ -1,5 +1,5 @@
 {
-    "name": "vendor/mymodule",
+    "name": "batouy/mymodule",
     "description": "My Module Rulez",
     "type": "library",
     "require": {
