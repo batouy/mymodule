@@ -1,5 +1,5 @@
 <?php
-namespace Vendor\MyModule\Providers;
+namespace Batouy\MyModule\Providers;
 
 use Konekt\Concord\BaseModuleServiceProvider;
 

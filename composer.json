@@ -7,6 +7,6 @@
         "konekt/concord": "^1.10"
     },
     "autoload": {
-        "psr-4": { "Vendor\\MyModule\\": "src/" }
+        "psr-4": { "Batouy\\MyModule\\": "src/" }
     }
 }
